@@ -4,6 +4,9 @@ This repository contains a collection of mini projects built using C, Python, an
 
 **Features:**
 Well-documented source code for easy understanding.
+
 Projects covering diverse topics like algorithms, data structures, and small applications.
+
 Aimed at beginners and intermediate programmers looking to enhance their skills.
+
 Feel free to explore, learn, and contribute!
