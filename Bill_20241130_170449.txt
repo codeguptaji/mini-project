@@ -1,0 +1,10 @@
+----- Grocery Store Bill -----
+Item      Qty  Price (Rs)  Total (Rs)
+Rice      50   50          2500      
+-------------------------------
+Subtotal: Rs 2500.00
+Tax (5%): Rs 125.00
+Discount: Rs 250.00
+Grand Total: Rs 2375.00
+-------------------------------
+Thank you! Visit Again.
