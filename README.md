@@ -1,4 +1,5 @@
 **Mini Projects in C, Python, and C++**
+
 This repository contains a collection of mini projects built using C, Python, and C++ programming languages. Each project showcases a unique concept or solution to common problems, focusing on practical implementations and coding best practices.
 
 **Features:**
